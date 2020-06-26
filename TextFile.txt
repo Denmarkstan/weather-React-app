@@ -1,0 +1,20 @@
+﻿For git commit:
+https://www.freakyjolly.com/setup-git-in-angular-project-commit-changes/#.Xu8E92hKjIU
+
+https://www.youtube.com/watch?v=NJWI1b1upps&list=PLDIXF8nb0VG1v4S-smVy7GV0MHsJ3PJiL
+https://www.youtube.com/watch?v=HgfA4W_VjmI&list=PLpP9FLMkNf55SMsrUPxJst2hH7R1lAq2I
+https://www.youtube.com/watch?v=N8kYlimhuLw
+
+https://www.youtube.com/watch?v=N8Rw1BYJNo0&list=PL5X0rgxaTIuOWHedpnXq_jqFD5DmkFQWD
+
+https://www.youtube.com/watch?v=IaJqMcOMuDM&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR
+
+https://www.youtube.com/watch?v=YurJDf8JIks&list=PLnc_NxpmOxaP2lgtchapTNNhb_BMFXdgi&index=1
+https://reactjs.org/docs/hello-world.html
+https://reactjs.org/tutorial/tutorial.html
+https://reactjs.org/docs/accessibility.html
+https://reactjs.org/docs/hooks-intro.html
+https://reactjs.org/docs/react-api.html
+https://egghead.io/courses/the-beginner-s-guide-to-react
+https://ibaslogic.com/blog/react-tutorial-for-beginners/
+https://daveceddia.com/react-tutorial/
